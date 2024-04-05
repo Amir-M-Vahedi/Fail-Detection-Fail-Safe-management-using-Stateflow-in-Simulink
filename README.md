@@ -1,1 +1,1 @@
-# State-Flow-Examples-for-Flight-Task-Management
+# Fail Detection & Fail-Safe management using Stateflow in Simulink
